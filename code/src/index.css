@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+
+}
+
+.hrBorder{
+border-style: none;
+border-style: none;
+border-top-style:dotted;
+border-color:grey;
+border-width: 5px;
+width: 5%;
+margin: auto;
+
+}
+.hrBorder-2{
+
+    border-style: none;
+    border-style: none;
+    border-top-style:dotted;
+    border-color:grey;
+    border-width: 5px;
+    width: 5%;
+    margin: auto;
+    margin-top: 70px;
+
+}
