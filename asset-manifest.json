@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portfolio.github.io/Portfolio/static/css/main.c0780c34.css",
+    "main.js": "/Portfolio.github.io/Portfolio/static/js/main.a94faab2.js",
+    "static/media/Weatherapp.png": "/Portfolio.github.io/Portfolio/static/media/Weatherapp.5cfffb49dd2000b2855e.png",
+    "static/media/keshav.jpeg": "/Portfolio.github.io/Portfolio/static/media/keshav.09e7ac410bbba0492b0e.jpeg",
+    "static/media/drumkit.png": "/Portfolio.github.io/Portfolio/static/media/drumkit.037182a93c04c7baf24c.png",
+    "static/media/food.png": "/Portfolio.github.io/Portfolio/static/media/food.a4730c999e0f19935a0e.png",
+    "static/media/css.jpg": "/Portfolio.github.io/Portfolio/static/media/css.92262e6268ddf4a54a41.jpg",
+    "static/media/ux.jpg": "/Portfolio.github.io/Portfolio/static/media/ux.deb398955399c70048b8.jpg",
+    "static/media/vscode.png": "/Portfolio.github.io/Portfolio/static/media/vscode.2a307889c8b78572ae12.png",
+    "static/media/HTML.png": "/Portfolio.github.io/Portfolio/static/media/HTML.2c6a71b184b518b01b9a.png",
+    "static/media/nodeJs.jpg": "/Portfolio.github.io/Portfolio/static/media/nodeJs.413f6107011d5a98f1e9.jpg",
+    "static/media/git.jpg": "/Portfolio.github.io/Portfolio/static/media/git.b3a0e39397ada4586bc5.jpg",
+    "index.html": "/Portfolio.github.io/Portfolio/index.html",
+    "main.c0780c34.css.map": "/Portfolio.github.io/Portfolio/static/css/main.c0780c34.css.map",
+    "main.a94faab2.js.map": "/Portfolio.github.io/Portfolio/static/js/main.a94faab2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0780c34.css",
+    "static/js/main.a94faab2.js"
+  ]
+}
